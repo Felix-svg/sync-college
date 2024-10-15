@@ -1,0 +1,14 @@
+D:\Development\SyncCollege\bin\Debug\net8.0\SyncCollege.exe
+D:\Development\SyncCollege\bin\Debug\net8.0\SyncCollege.deps.json
+D:\Development\SyncCollege\bin\Debug\net8.0\SyncCollege.runtimeconfig.json
+D:\Development\SyncCollege\bin\Debug\net8.0\SyncCollege.dll
+D:\Development\SyncCollege\bin\Debug\net8.0\SyncCollege.pdb
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.AssemblyInfoInputs.cache
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.AssemblyInfo.cs
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.csproj.CoreCompileInputs.cache
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.dll
+D:\Development\SyncCollege\obj\Debug\net8.0\refint\SyncCollege.dll
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.pdb
+D:\Development\SyncCollege\obj\Debug\net8.0\SyncCollege.genruntimeconfig.cache
+D:\Development\SyncCollege\obj\Debug\net8.0\ref\SyncCollege.dll
